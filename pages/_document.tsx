@@ -18,6 +18,7 @@ export default class MyDocument extends Document {
             />
 
             <link rel='manifest' href='/manifest.json' />
+            <meta name="baidu-site-verification" content="dglgauGYWC" />
           </Head>
 
           <body>
